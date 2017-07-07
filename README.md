@@ -1,3 +1,3 @@
 # BugList
-My bug lish
+My bug list
 20170707 基站负脉宽200us/10ms  电压15~30V
